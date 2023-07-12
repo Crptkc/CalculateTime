@@ -7,7 +7,7 @@ int main(){
   int h1,m1, h2,m2,h3,m3;
   cout<<"What time was it?"<<endl;
   getTime(h1,m1);//function 1
-  cout<<"What time is it now?";
+  cout<<"What time is it now?"<<endl;
   getTime(h2,m2);
 
   cout<<"Time diff is ";
